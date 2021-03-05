@@ -1,0 +1,11 @@
+echo "# Diabetes-Prediction" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/qwertyz15/Diabetes-Prediction.git
+git push -u origin main
+
+git remote add origin https://github.com/qwertyz15/Diabetes-Prediction.git
+git branch -M main
+git push -u origin main
